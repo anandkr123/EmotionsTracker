@@ -1,9 +1,9 @@
-# Emotions-Tracker
-Emotions tracker tracks your daily emotions and linked reasons behind it.
+# Mood & Self Reflection
+Mood & Self Reflection tracks your daily emotions and linked reasons behind it.
 
 **Privacy Policy**
 
-This privacy policy applies to the Emotions tracker app (hereby referred to as "Application") for mobile devices that was created by Anand Maurya (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the Mood & Self Reflection app (hereby referred to as "Application") for mobile devices that was created by Anand Maurya (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -58,7 +58,10 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-12-16
+This privacy policy is effective as of 2026-05-03
+
+**Disclaimer**:
+This app is intended for self-reflection and informational purposes only. It does not provide medical advi
 
 **Your Consent**
 
