@@ -61,7 +61,7 @@ This Privacy Policy may be updated from time to time for any reason. The Service
 This privacy policy is effective as of 2026-05-03
 
 **Disclaimer**:
-This app is intended for self-reflection and informational purposes only. It does not provide medical advi
+This app is intended for self-reflection and informational purposes only. It does not provide medical advice.
 
 **Your Consent**
 
